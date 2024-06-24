@@ -14,8 +14,9 @@ The main goal of this project is to leverage deep learning techniques to build r
 * [Shoval Zohar](https://github.com/ShovalZ97)
 * [Yair Turgeman](https://github.com/yair489)
 * Amit Rovshitz
-  
-![pic_deep](https://github.com/ShovalZ97/Final_project-deep-learning/assets/118892976/67bf98db-12f7-484a-b3e0-f0c732bff254)
+
+  <img src="![pic_deep](https://github.com/ShovalZ97/Final_project-deep-learning/assets/118892976/67bf98db-12f7-484a-b3e0-f0c732bff254)" alt="car" width="300" height="200">
+
 
 ## Dataset
 This dataset contains 2,000 unique images of bikes and cars, covering a wide variety of types to challenge model classification.
