@@ -4,7 +4,9 @@
 ## Overview
 
 The main goal of this project is to perform image classification on a dataset consisting of images from two different categories: car and motorcycle.
+
 The ultimate goal is to develop deep learning models that can accurately determine the type of specific vehicles depicted in a given image.
+
 The main goal of this project is to leverage deep learning techniques to build robust and accurate image classification models capable of recognizing the different types of vehicles.
 
 ## Authors:
