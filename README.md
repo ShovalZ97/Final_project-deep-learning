@@ -16,6 +16,7 @@ The main goal of this project is to leverage deep learning techniques to build r
 * Amit Rovshitz
 
   <img src="![pic_deep](https://github.com/ShovalZ97/Final_project-deep-learning/assets/118892976/7c68d378-f683-434f-a2ca-813adca33ee0)" alt="car" width="300" height="200">
+  
   ![pic_deep](https://github.com/ShovalZ97/Final_project-deep-learning/assets/118892976/7ceb883f-790e-4f97-b3bd-504b3b031032)
 
 
