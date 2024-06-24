@@ -15,7 +15,6 @@ The main goal of this project is to leverage deep learning techniques to build r
 * [Yair Turgeman](https://github.com/yair489)
 * Amit Rovshitz
   
- add picture
 ![pic_deep](https://github.com/ShovalZ97/Final_project-deep-learning/assets/118892976/67bf98db-12f7-484a-b3e0-f0c732bff254)
 
 ## Dataset
