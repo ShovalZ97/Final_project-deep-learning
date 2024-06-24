@@ -16,8 +16,8 @@ The main goal of this project is to leverage deep learning techniques to build r
 * Amit Rovshitz
   
  add picture
- C:\Users\User\Downloads\idansegev._A_high-resolution_image_showing_a_sleek_modern_car_a_5ab9b97c-2e34-4a0b-9d49-5dad91bb0844.PNG
- 
+![pic_deep](https://github.com/ShovalZ97/Final_project-deep-learning/assets/118892976/67bf98db-12f7-484a-b3e0-f0c732bff254)
+
 ## Dataset
 This dataset contains 2,000 unique images of bikes and cars, covering a wide variety of types to challenge model classification.
 It is unprocessed and not split into training and validation sets, allowing for custom augmentations. 
